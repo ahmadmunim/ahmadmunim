@@ -8,7 +8,7 @@
 <hr>
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,c,cpp)](https://skillicons.dev)
 
 ### Web Development:
 [![My Skills](https://skillicons.dev/icons?i=html,css,svelte,django,react,nodejs,expressjs,php,electron)](https://skillicons.dev)
