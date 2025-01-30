@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,c)](https://skillicons.dev)
 
 ### Web Development:
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,react,nodejs,expressjs,php,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,svelte,django,react,nodejs,expressjs,php,electron)](https://skillicons.dev)
 
 ### Databases:
 [![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
