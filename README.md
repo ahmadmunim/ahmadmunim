@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Munim</h1>
-<h3 align="center">A passionate computer science student from Canada with interest in Data Science, AI and Web Dev</h3>
-
-👯 I’m currently collaborating on [OpeNTF: Neural machine learning methods for Team Formation problem.](https://github.com/fani-lab/OpeNTF)
+<h3 align="center">A passionate computer science graduate from Canada with interest in Data Science, AI and Web Dev</h3>
 
 📫 How to reach me **ahmadmunim0803@gmail.com**
 
