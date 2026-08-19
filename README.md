@@ -1,33 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ahmad Munim</h1>
-<h3 align="center">A passionate computer science graduate from Canada with interest in Data Science, AI and Web Dev</h3>
+# Hi, I'm Ahmad Munim
 
-📫 How to reach me **ahmadmunim0803@gmail.com**
+Computer Science graduate from the University of Windsor, focused on software, data, and AI engineering. I like building things end-to-end — from data pipelines to the applications that sit on top of them.
 
-<hr>
+## What I'm working on
 
-### Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,c,cpp)](https://skillicons.dev)
+- Solving LeetCode problems to sharpen my data structures and algorithms skills
+- Building a digital wardrobe mobile app
+- Open to interesting problems in software, data, or AI engineering
 
-### Web Development:
-[![My Skills](https://skillicons.dev/icons?i=html,css,svelte,django,react,nodejs,expressjs,php,electron)](https://skillicons.dev)
+## Tech Stack
 
-### Databases:
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
+**Languages:** Python · TypeScript/JavaScript · Java
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,linux,postman,aws,docker,bash)](https://skillicons.dev)
+**Frameworks & Libraries:** React · Next.js · Node.js/Express · SvelteKit
 
-<br>
+**Databases:** MongoDB · MySQL · PostgreSQL/Supabase
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmunim&show_icons=true&locale=en&layout=compact" alt="ahmadmunim" /></p>
+**Tools:** Git · Linux · Docker · AWS · Cloudflare · Postman
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmadmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadmunim" height="30" width="40" /></a>
-</p>
+## Featured Projects
 
+- **[my-portfolio](https://github.com/ahmadmunim/my-portfolio)** — My personal portfolio site, built with SvelteKit and TypeScript, tested with Playwright, and deployed on Vercel. [Live site →](https://ahmadmunim.com)
+- **[apriori-minhash-optimization](https://github.com/ahmadmunim/apriori-minhash-optimization)** — Optimized implementations of the Apriori and MinHash algorithms for frequent itemset mining and similarity estimation.
 
-<!---
-ahmadmunim/ahmadmunim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadmunim/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ahmadmunim.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadmunim0803@gmail.com)
