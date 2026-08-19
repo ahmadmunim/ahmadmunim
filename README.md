@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Munim
 
-Computer Science graduate from the University of Windsor, focused on software, data, and AI engineering. I like building things end-to-end — from data pipelines to the applications that sit on top of them.
+Computer Science graduate from the University of Windsor, focused on software, data, and AI engineering. I like building things end-to-end, from data pipelines to the applications that sit on top of them.
 
 ## What I'm working on
 
